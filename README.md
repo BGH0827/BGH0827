@@ -13,5 +13,10 @@
 
 ## 교외 활동
 - 연합ICT경진대회 참가(2021)
+
+## 현재 사용가능 언어
+- JAVA
+- C
+- Python
 <!--
 **BGH0827/BGH0827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
