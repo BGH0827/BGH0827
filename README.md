@@ -7,5 +7,11 @@
 ## 참가 학습
 - 생활코딩 머신러닝야학 2기(2020)
 - 전자정부 프레임워크 Spring(2021)
+
+## 교내 활동
+- 창업동아리 DAS 활동(2021 ~ )
+
+## 교외 활동
+- 연합ICT경진대회 참가(2021)
 <!--
 **BGH0827/BGH0827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
