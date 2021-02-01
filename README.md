@@ -4,6 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=BGH0827&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 [![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=pedov46)](https://solved.ac/profile/pedov46)
 
-## 대회 출전
+## 참가 학습
+- 생활코딩 머신러닝야학 2기(2020)
 <!--
 **BGH0827/BGH0827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
